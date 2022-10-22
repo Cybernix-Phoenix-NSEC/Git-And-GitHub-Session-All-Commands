@@ -1,0 +1,37 @@
+To start using Git from your computer, you must enter your credentials to identify yourself as the author of your work. The username and email address should match the ones you use in Github.
+
+	git config --global user.name "your_username"
+	git config --global user.email "your_email_address@example.com"
+
+To check the configuration, run :-
+
+	git config --global --list
+
+
+1. To initialize an empty git repository in our local system (Local Repository):
+
+	git init
+
+2. To add the file/files to that Local Repository:
+
+	git add [filename]
+
+3. To commit the file:
+
+	git commit -m "committing the file"
+
+git add and git commit go together hand in hand. They don't work when they aren't used together.
+
+Local Repository is now ready.
+
+Move to Github and create an empty Remote Repository there after which we get an auto-generated link.
+
+4. To connect our Local Repository to our Remote Repository:
+
+	git remote add origin [link]
+
+5. To push the Local Repository contents to our Remote Repository:
+
+	git push origin master
+
+Remote Repository is now ready i.e. file/files will now be uploaded in out Github
