@@ -1,13 +1,13 @@
 ## This repository contains all the Git commands discussed in the Day-1 and Day-2 session of Hacktoberfest 2022.
 
-## All the important links
+## You can find all the important links here
 
 | Name | Link |
 | ------ | ------ |
 | Git | https://git-scm.com/downloads |
 | Markdown Syntax | https://dillinger.io |
-| octo-fiesta | https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
-| wikipedia-clone | https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
+| octo-fiesta GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
+| wikipedia-clone GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
 
 
 
