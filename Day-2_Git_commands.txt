@@ -1,0 +1,33 @@
+1. To create a new branch:
+
+	git branch [new_branch_name]
+
+2. To switch from the default branch (master/main) to the new branch:
+
+	git checkout [new_branch_name]
+
+3. To add the modified file:
+
+	git add [modified_file]
+
+4. To commit the modified file:
+
+	git commit -m "committing changes"       {The commit message should be meaningful and concise}
+
+5. To push the new branch to Github:
+
+	git push -u origin [new_branch_name]
+
+Now in Github we can see 2 branches in our project, one is our default branch where we cannot view the change whereas another is our new branch where we can see the change.
+
+6. To switch from the new branch to the default branch:
+
+	git checkout [master/main]
+	
+7. To merge the new branch to the default branch:
+
+	git merge [new_branch_name]
+
+8. 	git push origin [master/main]
+
+Now we can view that change in our default (master/main) branch.
