@@ -1,10 +1,11 @@
 ## This repository contains all the Git commands discussed in the Day-1 and Day-2 session of Hacktoberfest 2022.
 
+## All the important links
 
+| Name | Link |
+| ------ | ------ |
+| Git | [https://git-scm.com/downloads][PlDb]
 
-[Download Git](https://git-scm.com/downloads "Git bash")
-
-[Click here if you want to know more about markdown syntax and make a beautiful README.md file](https://dillinger.io/)
 
 
 
