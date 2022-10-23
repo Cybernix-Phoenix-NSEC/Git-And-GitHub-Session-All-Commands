@@ -2,7 +2,7 @@
 ## Heading 2
 ### Heading 3
 
-This text document contains all the Git commands discussed in the Day-2 session of Hacktoberfest 2022.
+This repository contains all the Git commands discussed in the Day-1 and Day-2 session of Hacktoberfest 2022.
 
 **This way we can write a text in bold**
 
