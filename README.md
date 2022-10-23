@@ -5,7 +5,7 @@
 | Topics | Links |
 | ------ | ------ |
 | Install Git | https://git-scm.com/downloads |
-| Markdown Syntax | https://dillinger.io |
+| Online Markdown Editor | https://dillinger.io |
 | GitHub Repository of octo-fiesta| https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
 | GitHub Repository of wikipedia-clone| https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
 | All the Recorded lectures| https://www.youtube.com/channel/UCBy1iIhw34E7YlHQ8tc4rDA/videos |
