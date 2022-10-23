@@ -4,7 +4,7 @@
 
 | Name | Link |
 | ------ | ------ |
-| Git | [https://git-scm.com/downloads]
+| Git | [https://git-scm.com/downloads] |
 
 
 
