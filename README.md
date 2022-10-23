@@ -4,8 +4,10 @@
 
 | Name | Link |
 | ------ | ------ |
-| Git | [https://git-scm.com/downloads] |
-
+| Git | [https://git-scm.com/downloads][] |
+| Markdown Syntax | [https://dillinger.io/][] |
+| octo-fiesta | [https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta][] |
+| wikipedia-clone | [https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone][] |
 
 
 
