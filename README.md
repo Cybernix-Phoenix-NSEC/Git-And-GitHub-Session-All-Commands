@@ -2,7 +2,7 @@
 
 ## You can find all the important links here
 
-| Name | Link |
+| Topics | Links |
 | ------ | ------ |
 | Install Git | https://git-scm.com/downloads |
 | Markdown Syntax | https://dillinger.io |
