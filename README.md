@@ -4,7 +4,7 @@
 
 | Name | Link |
 | ------ | ------ |
-| Git | https://git-scm.com/downloads |
+| Install Git | https://git-scm.com/downloads |
 | Markdown Syntax | https://dillinger.io |
 | octo-fiesta GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
 | wikipedia-clone GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
