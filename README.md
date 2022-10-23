@@ -1,16 +1,10 @@
-# Heading 1
-## Heading 2
-### Heading 3
+## This repository contains all the Git commands discussed in the Day-1 and Day-2 session of Hacktoberfest 2022.
 
-This repository contains all the Git commands discussed in the Day-1 and Day-2 session of Hacktoberfest 2022.
 
-**This way we can write a text in bold**
-
-_Text in Italics_
-
-~~1000~~ **999**
 
 [Download Git](https://git-scm.com/downloads "Git bash")
+
+[Click here if you want to know more about markdown syntax and make a beautiful README.md file](https://git-scm.com/downloads "Git bash")
 
 >Have a great day!
 
