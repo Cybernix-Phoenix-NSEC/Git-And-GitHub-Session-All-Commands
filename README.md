@@ -6,8 +6,8 @@
 | ------ | ------ |
 | Install Git | https://git-scm.com/downloads |
 | Markdown Syntax | https://dillinger.io |
-| octo-fiesta GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
-| wikipedia-clone GitHub Repository| https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
+| GitHub Repository of octo-fiesta| https://github.com/Cybernix-Phoenix-NSEC/octo-fiesta |
+| GitHub Repository of wikipedia-clone| https://github.com/Cybernix-Phoenix-NSEC/wikipedia-clone |
 | All the Recorded lectures| https://www.youtube.com/channel/UCBy1iIhw34E7YlHQ8tc4rDA/videos |
 
 
